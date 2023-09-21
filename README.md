@@ -49,4 +49,4 @@ This project is distributed under the [MIT License](LICENSE). You are free to us
 
 ---
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by Alex
