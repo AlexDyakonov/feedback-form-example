@@ -2,6 +2,8 @@
 
 ![Project Screenshot](https://f-dyakonov.ru/apps/files_sharing/publicpreview/bobbFTjkoLsRHJi?file=/&fileId=94881&x=1920&y=1080&a=true)
 
+[View page](https://alexdyakonov.github.io/feedback-form-example/)
+
 ## Project Description
 
 The project is a simple feedback form that allows users to send emails to a specified email address. Bootstrap is used to create the form interface, and PHP is used to send emails.
