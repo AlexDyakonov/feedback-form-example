@@ -1,6 +1,6 @@
 # Feedback Form with Email Sending using PHP
 
-![Project Screenshot](https://f-dyakonov.ru/s/bobbFTjkoLsRHJi)
+![Project Screenshot](https://f-dyakonov.ru/apps/files_sharing/publicpreview/bobbFTjkoLsRHJi?file=/&fileId=94881&x=1920&y=1080&a=true)
 
 ## Project Description
 
@@ -39,8 +39,8 @@ To run the project successfully, you will need:
 
 - Form field validation to ensure the correctness of input data.
 
-![Incorrect validation screenshot](https://f-dyakonov.ru/s/tbxJ5786LLF9aKz)
-![Correct validation screenshot](https://f-dyakonov.ru/s/3QYGS7XsXro4kyN)
+![Incorrect validation screenshot](https://f-dyakonov.ru/apps/files_sharing/publicpreview/tbxJ5786LLF9aKz?file=/&fileId=94891&x=1920&y=1080&a=true)
+![Correct validation screenshot](https://f-dyakonov.ru/apps/files_sharing/publicpreview/3QYGS7XsXro4kyN?file=/&fileId=94890&x=1920&y=1080&a=true)
 
 
 ## License
