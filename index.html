@@ -53,18 +53,18 @@
           Напишите нам
         </div>
 
-        <form action="process_form.php" class="row g-3 needs-validation" novalidate>
+        <form action="process_form.php" class="row g-3 needs-validation" method="post" novalidate>
 
           <div class="row">
             <div class="col">
               <label for="validationServer01" class="form-label">Имя:</label>
               <input type="text" class="form-control" id="validationServer01" required
-                     data-bs-toggle="tooltip" data-bs-placement="top" title="Введите ваше имя">
+                     data-bs-toggle="tooltip" data-bs-placement="top" title="Введите ваше имя"  name="name">
             </div>
             <div class="col">
               <label for="validationServer02" class="form-label">Фамилия:</label>
               <input type="text" class="form-control" id="validationServer02" required
-                     data-bs-toggle="tooltip" data-bs-placement="top" title="Введите вашу фамилию">
+                     data-bs-toggle="tooltip" data-bs-placement="top" title="Введите вашу фамилию"  name="surname">
             </div>
 
           </div>
@@ -72,17 +72,17 @@
           <div class="row">
             <div class="col">
               <label for="exampleFormControlInput1" class="form-label">Email:</label>
-              <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com" required>
+              <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com" name="email" required>
             </div>
             <div class="col">
               <label for="phone-input" class="form-label">Номер телефона:</label>
-              <input type="tel" class="form-control phone-input" id="phone-input" placeholder="Введите номер телефона" required>
+              <input type="tel" class="form-control phone-input" id="phone-input" placeholder="Введите номер телефона"  name="phone" required>
             </div>
           </div>
 
           <div class="mb-3">
             <label for="exampleFormControlTextarea1" class="form-label">Сообщение</label>
-            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" required></textarea>
+            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="message" required></textarea>
           </div>
 
           <div class="col-12">
